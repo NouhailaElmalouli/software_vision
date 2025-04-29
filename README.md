@@ -60,13 +60,13 @@
 >>
 >>**Observations:** <br>
 >>
->>Link current detection script with software_gps_path current software development for coordination between object segmentation and gps navigation.<br>
+>>>Link current detection script with software_gps_path current software development for coordination between object segmentation and gps navigation.<br>
 >>**status:** `NOT STARTED`<br>
 >>>**assigned to:** Salvador<br>
 >>
 >>**Observations:** <br>
 >>
->>Link detection script with hardware motor movement system. Start to incorporate hardware functions into script.<br>
+>>>Link detection script with hardware motor movement system. Start to incorporate hardware functions into script.<br>
 >>**status:** `NOT STARTED`<br>
 >>>**assigned to:** Salvador<br>
 >>
