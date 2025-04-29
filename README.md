@@ -31,8 +31,8 @@
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador <br>
 >>
->>**Observations:** <br> The race path was reconstucted in rhinoceros to the exact specifications given by the competitons handbook and a video was recorded to be used as input. This new footage shed more light on what are the elements to take into consideration and where the script's weakpoints are.<br>
->> [A video of the current performance (2025-04-20) is provided](https://youtu.be/pIJFHZwhgWk)
+>>**Observations:** <br>
+>>- The race path was reconstucted in rhinoceros to the exact specifications given by the competitons handbook and a video was recorded to be used as input. This new footage shed more light on what are the elements to take into consideration and where the script's weakpoints are.<br> [A video of the current performance (2025-04-20) is provided](https://youtu.be/pIJFHZwhgWk)
 >>
 >>>tap into real time video feed.<br>
 >>>**status:** `STARTED`<br>
@@ -51,7 +51,8 @@
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
 >>
->>**Observations:** <br> [link to new updates in performance](https://youtu.be/HbUlDyNRyM8)
+>>**Observations:** <br>
+>>- [link to new updates in performance](https://youtu.be/HbUlDyNRyM8)
 
 >**2025-05-06:** <br>
 >>>add cardinal buoys.<br>
