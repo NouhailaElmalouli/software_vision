@@ -7,7 +7,7 @@
 - [Nouhaila Elmalouli](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
 
 ## Tasks:
->**2025-04-11:**<br>
+>**2025-04-11:** <br>
 >>>Create a class that uses computer vision's color recognition to detect elements in the video feed and make the boat respond accordingly.<br>
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Nouhaila, Salvador<br>
@@ -18,12 +18,14 @@
 >>- More cases need to be tested: when theres more than two buoys, when a buoy is partially obstrucuted, etc...<br>
 >>- Cardinal buoys need to be integrated into the class.
 
->**2025-04-22:**<br>
+>**2025-04-22:** <br>
 >>>reworking the mathematical system for making desisions (delta distance between buoys)<br>
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
 >>
 >>**Observations:** <br>
+>>- Now the program is able to give more precise orders to control movement and define the center point of direction between the buoys.
+>>- further tunning needs to be done to take into account the the difference in postion of the buoys and how that should affect the center point between them and the direction the boat should take in relation to it.
 >>
 >>>generate or record more cases of buoys position.<br>
 >>>**status:** `DONE`<br>
@@ -31,12 +33,6 @@
 >>
 >>**Observations:** <br> The race path was reconstucted in rhinoceros to the exact specifications given by the competitons handbook and a video was recorded to be used as input. This new footage shed more light on what are the elements to take into consideration and where the script's weakpoints are.<br>
 >> [A video of the current performance (2025-04-20) is provided](https://youtu.be/pIJFHZwhgWk)
->>
->>>add cardinal buoys.<br>
->>>**status:** `NOT STARTED`<br>
->>>**assigned to:** Nouhaila <br>
->>
->>**Observations:** <br>
 >>
 >>>tap into real time video feed.<br>
 >>>**status:** `STARTED`<br>
@@ -50,10 +46,29 @@
 >>
 >>**Observations:** <br>
 
->**2025-04-29:**<br>
+>**2025-04-29:** <br>
 >>>use the given dataset and try object detection to get better segmentation of the buoys.<br>
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
 >>
 >>**Observations:** <br> [link to new updates in performance](https://youtu.be/HbUlDyNRyM8)
+
+>**2025-05-06:** <br>
+>>>add cardinal buoys.<br>
+>>>**status:** `NOT STARTED`<br>
+>>>**assigned to:** Nouhaila <br>
+>>
+>>**Observations:** <br>
+>>
+>>Link current detection script with software_gps_path current software development for coordination between object segmentation and gps navigation.<br>
+>>**status:** `NOT STARTED`<br>
+>>>**assigned to:** Salvador<br>
+>>
+>>**Observations:** <br>
+>>
+>>Link detection script with hardware motor movement system. Start to incorporate hardware functions into script.<br>
+>>**status:** `NOT STARTED`<br>
+>>>**assigned to:** Salvador<br>
+>>
+>>**Observations:** <br>
 >>
