@@ -10,6 +10,7 @@
 >**2025-04-11:**<br>
 >>>Create a class that uses computer vision's color recognition to detect elements in the video feed and make the boat respond accordingly.<br>
 >>>**status:** `DONE`<br>
+>>>**assigned to:** Nouhaila, Salvador<br>
 >>
 >>**observations:** <br>
 >>- The script is able to take pre recorded video inputs. now its time to test live feed.<br>
