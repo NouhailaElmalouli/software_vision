@@ -4,16 +4,20 @@
 - [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/)
 - [Nouhaila Elmalouli](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
 
-This project is in the frame of Njord Autonomous Ship Challenge 2025, a unique, international student competition that will be held onsite from the 4th of August through the 9th of August 2025, where participants are tasked with designing and building an autonomous ship and competing in a series of challenges and events.  
+This project is in the frame of IAAC Engineering Club and Njord Autonomous Ship Challenge 2025, a unique, international student competition that will be held onsite from the 4th of August through the 9th of August 2025, where participants are tasked with designing and building an autonomous ship and competing in a series of challenges and events.  
 
 🚤 Our boat is learning to see—and steer!
 Here’s a quick look at how we’re teaching our ASV to detect objects and make decisions in real-time.
 
 The system scans the water, spots buoys, and figures out how to navigate between them—adjusting course when needed, just like a smart captain.
 It’s all thanks to a combo of tools we’ve been experimenting with:
+
 🎨 Color detection
+
 📐 Edge detection
+
 🌄 SIFT (Scale-Invariant Feature Transform)
+
 🧠 YOLO (yes, the object detection one)
 
 All stitched together in a custom Python class we’ve been building from scratch.
