@@ -10,7 +10,7 @@
 >**2025-04-11:** <br>
 >>>Create a class that uses computer vision's color recognition to detect elements in the video feed and make the boat respond accordingly.<br>
 >>>**status:** `DONE`<br>
->>>**assigned to:** Nouhaila, Salvador<br>
+>>>**assigned to:** Nouhaila<br>
 >>
 >>**observations:** <br>
 >>- The script is able to take pre recorded video inputs. now its time to test live feed.<br>
@@ -41,7 +41,7 @@
 >>**Observations:** <br>
 >>
 >>>get some ideas of how to detect the OTTER (unknown obstacle).<br>
->>>**status:** `NOT STARTED`<br>
+>>>**status:** `DONE`<br>
 >>>**assigned to:** Nouhaila, Salvador<br>
 >>
 >>**Observations:** <br>
@@ -49,14 +49,14 @@
 >**2025-04-29:** <br>
 >>>use the given dataset and try object detection to get better segmentation of the buoys.<br>
 >>>**status:** `DONE`<br>
->>>**assigned to:** Salvador<br>
+>>>**assigned to:** Nouhaila, Salvador<br>
 >>
 >>**Observations:** <br>
 >>- [link to new updates in performance](https://youtu.be/HbUlDyNRyM8)
 
 >**2025-05-06:** <br>
 >>>add cardinal buoys.<br>
->>>**status:** `NOT STARTED`<br>
+>>>**status:** `DONE`<br>
 >>>**assigned to:** Nouhaila <br>
 >>
 >>**Observations:** <br>
